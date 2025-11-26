@@ -82,9 +82,14 @@ line-height:1.25;
 .mascot{display:flex;justify-content:center;margin-top:6px}
 .mascot img{width:192px;height:192px;object-fit:contain}
 
-<footer class="footer">
-  © 2025 Motionless • All Rights Reserved
-</footer>
+.footer {
+  text-align: center;
+  padding: 15px 0;
+  color: white;
+  background: #3b0033; /* same dark purple */
+  font-family: 'Oswald', sans-serif;
+  margin-top: 40px;
+}
 
 @media (max-width:860px){
 .card{width:94%}
