@@ -1,5 +1,10 @@
 :root{
-
+  --nav-purple: #8a1fa8;
+  --header-purple: #3b0033;
+  --page-purple: #3a0038;
+  --card-white: #ffffff;
+  --accent: #7b1fb0;
+}
 
 .hero-image{
 position:relative;
