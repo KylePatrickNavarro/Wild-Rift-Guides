@@ -82,6 +82,11 @@ line-height:1.25;
 .mascot{display:flex;justify-content:center;margin-top:6px}
 .mascot img{width:192px;height:192px;object-fit:contain}
 
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-weight: bold;
+}
 
 @media (max-width:860px){
 .card{width:94%}
