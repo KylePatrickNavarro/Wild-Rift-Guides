@@ -107,6 +107,13 @@ line-height:1.25;
   margin:0 80px 30px;
 }
 
+.masthead{
+background:var(--header-purple);
+color:white;
+text-align:center;
+padding:36px 0 44px;
+}
+
 .table-wrapper{
   margin-top:10px;
   border-top:2px solid #eee;
