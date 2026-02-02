@@ -109,12 +109,14 @@ line-height:1.25;
 
 .container{display:flex;justify-content:center;padding:34px 20px 80px}
 .card{
-width:820px;
-background:var(--card-white);
-padding:26px 30px 34px;
-box-sizing:border-box;
-box-shadow:0 10px 0 rgba(0,0,0,0.08);
+  width:820px;
+  background:var(--card-white);
+  padding:26px 30px 34px;
+  box-sizing:border-box;
+  box-shadow:0 10px 0 rgba(0,0,0,0.08);
+  margin:0 auto; 
 }
+
 
 .table-wrapper{
   margin-top:10px;
