@@ -86,3 +86,60 @@ line-height:1.25;
 .masthead h1{font-size:56px}
 .hero-image{height:260px}
 }
+
+
+
+.welcome-title{
+  text-align:center;
+  font-family:'Anton', sans-serif;
+  font-size:26px;
+  letter-spacing:2px;
+  margin:24px 0 12px;
+}
+
+.welcome-text{
+  text-align:center;
+  font-size:14px;
+  font-weight:700;
+  text-transform:uppercase;
+  letter-spacing:1.2px;
+  line-height:1.3;
+  margin:0 80px 30px;
+}
+
+.table-wrapper{
+  margin-top:10px;
+  border-top:2px solid #eee;
+}
+
+.lane{
+  display:grid;
+  grid-template-columns:60px 160px 1fr;
+  align-items:center;
+  padding:18px 20px;
+  border-bottom:1px solid #eee;
+}
+
+.lane-number{
+  font-weight:800;
+  color:#7b1fb0;
+  font-size:18px;
+}
+
+.lane-name{
+  font-weight:800;
+  font-size:18px;
+  letter-spacing:1px;
+}
+
+.lane-champs{
+  font-size:14px;
+  font-weight:700;
+  text-transform:uppercase;
+}
+
+@media(max-width:860px){
+  .welcome-text{margin:0 20px 24px}
+  .lane{grid-template-columns:40px 120px 1fr}
+}
+
