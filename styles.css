@@ -107,11 +107,13 @@ line-height:1.25;
   margin:0 80px 30px;
 }
 
-.masthead{
-background:var(--header-purple);
-color:white;
-text-align:center;
-padding:36px 0 44px;
+.container{display:flex;justify-content:center;padding:34px 20px 80px}
+.card{
+width:820px;
+background:var(--card-white);
+padding:26px 30px 34px;
+box-sizing:border-box;
+box-shadow:0 10px 0 rgba(0,0,0,0.08);
 }
 
 .table-wrapper{
