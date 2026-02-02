@@ -66,18 +66,6 @@ position:absolute;left:18px;top:30px;color:#fff;font-weight:700;font-size:20px;l
 .hero-image .nums .n2{position:absolute;top:72px}
 
 
-.card p{
-font-family: 'Oswald', Arial, sans-serif;
-font-size:15px;
-font-weight:800;
-text-transform:uppercase;
-letter-spacing:1.2px;
-text-align:left;
-color:#000;
-margin:20px 78px 25px;
-line-height:1.25;
-}
-
 
 .mascot{display:flex;justify-content:center;margin-top:6px}
 .mascot img{width:192px;height:192px;object-fit:contain}
