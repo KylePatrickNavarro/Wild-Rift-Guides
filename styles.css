@@ -107,7 +107,6 @@ line-height:1.25;
   margin:0 80px 30px;
 }
 
-.container{display:flex;justify-content:center;padding:34px 20px 80px}
 .card{
   width:820px;
   background:var(--card-white);
