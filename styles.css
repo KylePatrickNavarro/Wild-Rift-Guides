@@ -71,6 +71,20 @@ position:absolute;left:18px;top:30px;color:#fff;font-weight:700;font-size:20px;l
 .hero-image .nums .n2{position:absolute;top:72px}
 
 
+.lane-number{
+  font-size:22px;   
+}
+
+.lane-name{
+  font-size:22px;  
+}
+
+.lane-champs{
+  font-size:16px;  
+}
+
+
+
 
 .mascot{display:flex;justify-content:center;margin-top:6px}
 .mascot img{width:192px;height:192px;object-fit:contain}
