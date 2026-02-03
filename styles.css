@@ -42,7 +42,7 @@ transform:translateY(-6px);
     padding: 34px 20px 80px;
 }
 .card{
-  width:820px;
+  width:920px;
   max-width:100%;
   background:var(--card-white);
   padding:26px 30px 34px;
